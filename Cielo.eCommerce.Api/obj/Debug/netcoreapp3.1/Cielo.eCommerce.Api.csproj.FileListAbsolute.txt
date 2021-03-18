@@ -1,0 +1,9 @@
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.csprojAssemblyReference.cache
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.AssemblyInfoInputs.cache
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.AssemblyInfo.cs
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\bin\Debug\netcoreapp3.1\Cielo.eCommerce.Api.deps.json
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\bin\Debug\netcoreapp3.1\Cielo.eCommerce.Api.dll
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\bin\Debug\netcoreapp3.1\Cielo.eCommerce.Api.pdb
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.dll
+C:\Users\Ivan.Leal\Desktop\Cielo.eCommerce.Api\Cielo.eCommerce.Api\obj\Debug\netcoreapp3.1\Cielo.eCommerce.Api.pdb

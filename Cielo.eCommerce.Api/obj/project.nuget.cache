@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UbIyG0tg+iveL61Ttm8KgMbmSdWiB2mdTqsMeJVC7Q1JfVLzLoc8CGzF618FqqzptzqqbcepqbYtJYRUVzRkVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan.Leal\\Desktop\\Cielo.eCommerce.Api\\Cielo.eCommerce.Api\\Cielo.eCommerce.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan.Leal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
